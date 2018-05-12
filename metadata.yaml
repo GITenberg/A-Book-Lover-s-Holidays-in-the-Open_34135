@@ -1,0 +1,41 @@
+_repo: A-Book-Lover-s-Holidays-in-the-Open_34135
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: ''
+gutenberg_issued: '2010-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34135'
+  lccn: '16006251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books and reading -- United States'
+- !lcsh 'Hunting'
+- !lcsh 'Southwest, New -- Description and travel'
+- !lcsh 'Birds -- Conservation'
+- !lcc 'PS'
+- !lcsh 'South America -- Description and travel'
+tableOfContents: A cougar hunt on the rim of the Grand Canyon -- Across the Navajo
+  desert -- The Hopi snake-dance -- The ranchland of Argentina and southern Brazil
+  -- A Chilean rodeo -- Across the Andes and northern Patagonia -- Wild hunting companions
+  -- Primitive man; and the horse, the lion, and the elephant -- Books for holidays
+  in the open -- Bird reserves at the mouth of the Mississippi -- A curious experience
+  -- Appendices.
+title: A Book-Lover's Holidays in the Open
+url: http://www.gutenberg.org/ebooks/34135
